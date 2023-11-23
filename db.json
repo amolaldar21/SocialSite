@@ -1,0 +1,94 @@
+{
+  "SignUp": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "1234567890",
+      "email": "john.doe@example.com",
+      "password": "securepassword",
+      "cpassword": "securepassword"
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9898",
+      "cpassword": "9898",
+      "id": 2
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "98",
+      "cpassword": "98",
+      "id": 3
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "787",
+      "cpassword": "787",
+      "id": 4
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9898",
+      "cpassword": "232",
+      "id": 5
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "8989",
+      "cpassword": "8989",
+      "id": 6
+    },
+    {
+      "firstName": "babu",
+      "lastName": "Aldar",
+      "mobileNumber": "9898",
+      "email": "babu@gmail.com",
+      "password": "9898",
+      "cpassword": "9898",
+      "id": 7
+    },
+    {
+      "firstName": "aa",
+      "lastName": "a98",
+      "mobileNumber": "98",
+      "email": "a@gmail.com",
+      "password": "9898",
+      "cpassword": "9898",
+      "id": 8
+    },
+    {
+      "firstName": "a",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9898",
+      "cpassword": "9898",
+      "id": 9
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9898",
+      "cpassword": "9898",
+      "id": 10
+    }
+  ]
+}
