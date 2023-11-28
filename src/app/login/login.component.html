@@ -36,7 +36,7 @@
                     <span *ngIf="c.touched  && c.value !== p.value" style="color:red">confirm password doesn't match</span>
 
                 </div>
-                <button class="btn btn-primary" [disabled]="!signUp.valid" (click)="formreset()">Submit</button>
+                <button class="btn btn-primary" [disabled]="!signUp.valid" (click)="navigation()">Submit</button>
             </form>
 
         </div>

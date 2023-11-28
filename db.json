@@ -89,6 +89,33 @@
       "password": "9898",
       "cpassword": "9898",
       "id": 10
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9",
+      "cpassword": "9",
+      "id": 11
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9",
+      "cpassword": "9",
+      "id": 12
+    },
+    {
+      "firstName": "Amol",
+      "lastName": "Aldar",
+      "mobileNumber": "8291540763",
+      "email": "amol21.seo@gmail.com",
+      "password": "9",
+      "cpassword": "9",
+      "id": 13
     }
   ]
 }

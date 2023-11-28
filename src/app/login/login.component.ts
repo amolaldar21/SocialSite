@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { SingUp } from '../model/signInUp';
 import{ NgForm} from '@angular/forms'
 import{ServiceService} from '../services/service.service'
+import { Router } from '@angular/router';
 
 
 @Component({
@@ -12,7 +13,7 @@ import{ServiceService} from '../services/service.service'
 export class LoginComponent implements OnInit {
   
 
-  constructor(private service:ServiceService) { }
+  constructor(private service:ServiceService,private router:Router) { }
 
   ngOnInit() {
   }
@@ -28,10 +29,13 @@ SignUpData(data:SingUp,form: NgForm){
   
 
 }
-formreset(form:NgForm)
+navigation()
 {
-  form.reset()
+  this.router.navigate([''])
+  // this.router.navigateByUrl('')
+  // window.location.href='http://localhost:4200';
 }
+
 
 
 }
