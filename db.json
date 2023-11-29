@@ -9,15 +9,7 @@
       "password": "securepassword",
       "cpassword": "securepassword"
     },
-    {
-      "firstName": "Amol",
-      "lastName": "Aldar",
-      "mobileNumber": "8291540763",
-      "email": "amol21.seo@gmail.com",
-      "password": "9898",
-      "cpassword": "9898",
-      "id": 2
-    },
+   
     {
       "firstName": "Amol",
       "lastName": "Aldar",
@@ -85,7 +77,7 @@
       "firstName": "Amol",
       "lastName": "Aldar",
       "mobileNumber": "8291540763",
-      "email": "amol21.seo@gmail.com",
+      "email": "amol.seo@gmail.com",
       "password": "9898",
       "cpassword": "9898",
       "id": 10
